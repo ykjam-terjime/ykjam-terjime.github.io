@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://ykjam-terjime.github.io/</loc>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://ykjam-terjime.github.io/tekst/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ykjam-terjime.github.io/ses/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ykjam-terjime.github.io/surat/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ykjam-terjime.github.io/programma/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
